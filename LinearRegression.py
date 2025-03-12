@@ -1,3 +1,4 @@
+# This script generates a dataset for a linear regression model
 import numpy as np
 import pandas as pd
 
